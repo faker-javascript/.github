@@ -3,8 +3,8 @@
 ### Packages
 
 Types:
-* [Boolean](@faker-javascript/boolean)
-* [Integer](@faker-javascript/integer)
+* [Boolean](https://github.com/faker-javascript/boolean)
+* [Integer](https://github.com/faker-javascript/integer)
 
 Internet
-* [IP](@faker-javascript/ip)
+* [IP](https://github.com/faker-javascript/ip)
