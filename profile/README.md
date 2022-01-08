@@ -12,12 +12,16 @@
     <td>
       Boolean package provides functionality to generate a fake boolean value.
     </td>
+  </tr>
+  <tr>
     <td>
       <a href="https://github.com/faker-javascript/integer">Integer</a>
     </td>
     <td>
       Integer package provides functionality to generate a fake integer value.
     </td>
+  </tr>
+  <tr>
     <td>
       <a href="https://github.com/faker-javascript/float">Float</a>
     </td>
