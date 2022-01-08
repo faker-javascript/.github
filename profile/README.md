@@ -13,7 +13,7 @@
       Boolean package provides functionality to generate a fake boolean value.
     </td>
     <td>
-      <a href="https://github.com/faker-javascript/boolean/releases"><img alt="Version" src="https://img.shields.io/github/release/faker-javascript/boolean.svg?label=version&color=green"></a> <a href="https://github.com/faker-javascript/boolean"><img src="https://img.shields.io/badge/license-MIT-blue.svg?color=green" alt="License"></a>
+      <a href="https://github.com/faker-javascript/boolean/releases"><img alt="Version" src="https://img.shields.io/github/release/faker-javascript/boolean.svg?label=version&color=green"></a> <img src="https://github.com/faker-javascript/boolean/actions/workflows/tests.yml/badge.svg">
     </td>
   </tr>
   <tr>
