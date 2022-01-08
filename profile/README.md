@@ -1,9 +1,9 @@
 # Faker Javascript
 > A set of decoupled and reusable packages that generates fake data for you.
 
-### Packages
+## Packages
 
-#### Basic
+### Basic
 <table>
   <tr>
     <td>
@@ -11,6 +11,9 @@
     </td>
     <td>
       Boolean package provides functionality to generate a fake boolean value.
+    </td>
+    <td>
+      <a href="https://github.com/faker-javascript/boolean/releases"><img alt="Version" src="https://img.shields.io/github/release/faker-javascript/boolean.svg?label=version&color=green"></a> <a href="https://github.com/faker-javascript/boolean"><img src="https://img.shields.io/badge/license-MIT-blue.svg?color=green" alt="License"></a> <img src="https://github.com/faker-javascript/boolean/actions/workflows/tests.yml/badge.svg">
     </td>
   </tr>
   <tr>
@@ -37,8 +40,8 @@
 * [Letter](https://github.com/faker-javascript/letter)
 * [String](https://github.com/faker-javascript/string)
 
-#### Person
+### Person
 * [Age](https://github.com/faker-javascript/age)
 
-#### Internet
+### Internet
 * [IP](https://github.com/faker-javascript/ip)
