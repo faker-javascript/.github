@@ -3,10 +3,15 @@
 
 ### Packages
 
-* [Age](https://github.com/faker-javascript/age)
+#### Basic
 * [Boolean](https://github.com/faker-javascript/boolean)
 * [Integer](https://github.com/faker-javascript/integer)
 * [Float](https://github.com/faker-javascript/float)
-* [IP](https://github.com/faker-javascript/ip)
 * [Letter](https://github.com/faker-javascript/letter)
 * [String](https://github.com/faker-javascript/string)
+
+#### Person
+* [Age](https://github.com/faker-javascript/age)
+
+#### Internet
+* [IP](https://github.com/faker-javascript/ip)
