@@ -1,4 +1,5 @@
 # Faker Javascript
+> A set of decoupled and reusable packages that generates fake data for you.
 
 ### Packages
 
