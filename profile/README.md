@@ -11,9 +11,9 @@
     </td>
     <td>
       Boolean package provides functionality to generate a fake boolean value.
-    </td>
-    <td>
-      <a href="https://github.com/faker-javascript/boolean/releases"><img alt="Version" src="https://img.shields.io/github/release/faker-javascript/boolean.svg?label=version&color=green"></a> <img src="https://github.com/faker-javascript/boolean/actions/workflows/tests.yml/badge.svg">
+      <p>
+        <a href="https://github.com/faker-javascript/boolean/releases"><img alt="Version" src="https://img.shields.io/github/release/faker-javascript/boolean.svg?label=version&color=green"></a> <img src="https://github.com/faker-javascript/boolean/actions/workflows/tests.yml/badge.svg">
+      </p>
     </td>
   </tr>
   <tr>
