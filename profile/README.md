@@ -1,6 +1,16 @@
 # Faker Javascript
 > A set of decoupled and reusable packages that generates fake data for you.
 
+## Install
+
+```
+// Install specific faker package.
+$ npm install --save @fakerjs/[package_name]
+
+// Install all faker packages.
+$ npm install --save @fakerjs/faker
+```
+
 ## Packages
 
 ### Basic
