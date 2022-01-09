@@ -57,3 +57,10 @@ IP package provides functionality to generate a ip value.
  
 <a href="https://github.com/faker-javascript/ip/releases"><img alt="Version" src="https://img.shields.io/github/release/faker-javascript/ip.svg?label=version&color=green"></a> <img src="https://img.shields.io/npm/dt/@fakerjs/ip"> <a href="https://github.com/faker-javascript/ip"><img src="https://img.shields.io/badge/license-MIT-blue.svg?color=green" alt="License"></a> <img src="https://github.com/faker-javascript/ip/actions/workflows/tests.yml/badge.svg"><hr>
 
+### Nature
+<hr>
+
+[Animal](https://github.com/faker-javascript/animal)  
+Animal package provides functionality to generate a animal value. 
+ 
+<a href="https://github.com/faker-javascript/animal/releases"><img alt="Version" src="https://img.shields.io/github/release/faker-javascript/animal.svg?label=version&color=green"></a> <img src="https://img.shields.io/npm/dt/@fakerjs/animal"> <a href="https://github.com/faker-javascript/animal"><img src="https://img.shields.io/badge/license-MIT-blue.svg?color=green" alt="License"></a> <img src="https://github.com/faker-javascript/animal/actions/workflows/tests.yml/badge.svg"><hr>
