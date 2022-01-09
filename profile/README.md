@@ -1,5 +1,5 @@
 # Faker Javascript
-> A set of decoupled and reusable packages that generates fake data for you.
+> A set of decoupled and reusable javascript packages that generates fake data for you.
 
 ## Install
 
