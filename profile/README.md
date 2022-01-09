@@ -12,6 +12,7 @@
 
 ### Person
 * [Age](https://github.com/faker-javascript/age)
+* [Gender](https://github.com/faker-javascript/gender)
 * [Profession](https://github.com/faker-javascript/profession)
 
 ### Internet
