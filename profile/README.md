@@ -15,5 +15,12 @@
 * [Gender](https://github.com/faker-javascript/gender)
 * [Profession](https://github.com/faker-javascript/profession)
 
-### Internet
+### Web
 * [IP](https://github.com/faker-javascript/ip)
+* Domain
+* Email
+* Url
+* Hashtag
+
+### Nature
+* Animal
