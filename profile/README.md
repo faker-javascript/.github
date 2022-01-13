@@ -49,6 +49,14 @@ String package provides functionality to generate a fake string value.
  
 <a href="https://github.com/faker-javascript/string/releases"><img alt="Version" src="https://img.shields.io/github/release/faker-javascript/string.svg?label=version&color=green"></a> <img src="https://img.shields.io/npm/dt/@fakerjs/string"> <a href="https://github.com/faker-javascript/string"><img src="https://img.shields.io/badge/license-MIT-blue.svg?color=green" alt="License"></a> <img src="https://github.com/faker-javascript/string/actions/workflows/tests.yml/badge.svg"><hr>
 
+### Text
+
+[Word](https://github.com/faker-javascript/word)  
+Word package provides functionality to generate a fake semi-pronounceable random (nonsense) word value.
+ 
+<a href="https://github.com/faker-javascript/word/releases"><img alt="Version" src="https://img.shields.io/github/release/faker-javascript/word.svg?label=version&color=green"></a> <img src="https://img.shields.io/npm/dt/@fakerjs/word"> <a href="https://github.com/faker-javascript/word"><img src="https://img.shields.io/badge/license-MIT-blue.svg?color=green" alt="License"></a> <img src="https://github.com/faker-javascript/string/actions/workflows/tests.yml/badge.svg"><hr>
+
+
 ### Person
 <hr>
 
