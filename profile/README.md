@@ -16,7 +16,7 @@ $ npm install --save @fakerjs/faker
 [Faker](https://github.com/faker-javascript/faker)  
 A set of javascript packages that generates fake data for you.
  
-<a href="https://github.com/faker-javascript/faker/releases"><img alt="Version" src="https://img.shields.io/github/release/faker-javascript/faker.svg?label=version&color=green"></a> <img src="https://img.shields.io/npm/dt/@fakerjs/faker"> <a href="https://github.com/faker-javascript/faker"><img src="https://img.shields.io/badge/license-MIT-blue.svg?color=green" alt="License"></a> <img src="https://github.com/faker-javascript/faker/actions/workflows/ci.yml/badge.svg"><hr>
+<a href="https://github.com/faker-javascript/faker/releases"><img alt="Version" src="https://img.shields.io/github/release/faker-javascript/faker.svg?label=version&color=green"></a> <img src="https://img.shields.io/npm/dt/@fakerjs/faker"> <img alt="node-current" src="https://img.shields.io/node/v/@fakerjs/faker"> <a href="https://github.com/faker-javascript/faker/actions/workflows/ci.yml"><img src="https://github.com/faker-javascript/faker/actions/workflows/ci.yml/badge.svg"></a> <a href="https://github.com/faker-javascript/faker"><img src="https://img.shields.io/badge/license-MIT-blue.svg?color=green" alt="License"></a><hr>
 
 
 ## Packages
