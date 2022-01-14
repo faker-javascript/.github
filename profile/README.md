@@ -95,3 +95,10 @@ IP package provides functionality to generate a fake ip value.
 Animal package provides functionality to generate a fake animal value. 
  
 <a href="https://github.com/faker-javascript/animal/releases"><img alt="Version" src="https://img.shields.io/github/release/faker-javascript/animal.svg?label=version&color=green"></a> <img src="https://img.shields.io/npm/dt/@fakerjs/animal"> <a href="https://github.com/faker-javascript/animal"><img src="https://img.shields.io/badge/license-MIT-blue.svg?color=green" alt="License"></a> <img src="https://github.com/faker-javascript/animal/actions/workflows/tests.yml/badge.svg"><hr>
+
+## CONTRIBUTE
+Faker for JavaScript is an open source project and community contributions are essential to its growing and success. Contributing to the Faker for JavaScript is easy and you can give as little or as much time as you want.
+
+* Develop a new faker package, [contact me](https://twitter.com/AwilumIT).
+* Find and report issues.
+* Send pull requests to imrove codebase of faker packages.
