@@ -3,4 +3,4 @@ Faker for JavaScript is an open source project and community contributions are e
 
 * Develop a new faker package, [contact me](https://twitter.com/AwilumIT).
 * Find and report issues.
-* Send pull requests to imrove codebase of faker packages.
+* Send pull requests to improve the codebase of faker packages.
