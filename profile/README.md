@@ -56,6 +56,11 @@ Word package provides functionality to generate a fake semi-pronounceable random
  
 <a href="https://github.com/faker-javascript/word/releases"><img alt="Version" src="https://img.shields.io/github/release/faker-javascript/word.svg?label=version&color=green"></a> <img src="https://img.shields.io/npm/dt/@fakerjs/word"> <img alt="node-current" src="https://img.shields.io/node/v/@fakerjs/word"> <a href="https://github.com/faker-javascript/word/actions/workflows/ci.yml"><img src="https://github.com/faker-javascript/word/actions/workflows/ci.yml/badge.svg"></a> <a href="https://github.com/faker-javascript/word"><img src="https://img.shields.io/badge/license-MIT-blue.svg?color=green" alt="License"></a><hr>
 
+[Sentence](https://github.com/faker-javascript/sentence)  
+Sentence package provides functionality to generate a fake sentence populated by semi-pronounceable random (nonsense) words value.
+ 
+<a href="https://github.com/faker-javascript/sentence/releases"><img alt="Version" src="https://img.shields.io/github/release/faker-javascript/sentence.svg?label=version&color=green"></a> <img src="https://img.shields.io/npm/dt/@fakerjs/sentence"> <img alt="node-current" src="https://img.shields.io/node/v/@fakerjs/sentence"> <a href="https://github.com/faker-javascript/sentence/actions/workflows/ci.yml"><img src="https://github.com/faker-javascript/sentence/actions/workflows/ci.yml/badge.svg"></a> <a href="https://github.com/faker-javascript/sentence"><img src="https://img.shields.io/badge/license-MIT-blue.svg?color=green" alt="License"></a><hr>
+
 
 ### Person
 <hr>
