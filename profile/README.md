@@ -97,6 +97,11 @@ IP package provides functionality to generate a fake ip value.
  
 <a href="https://github.com/faker-javascript/ip/releases"><img alt="Version" src="https://img.shields.io/github/release/faker-javascript/ip.svg?label=version&color=green"></a> <img src="https://img.shields.io/npm/dt/@fakerjs/ip"> <img alt="node-current" src="https://img.shields.io/node/v/@fakerjs/ip"> <a href="https://github.com/faker-javascript/ip/actions/workflows/ci.yml"><img src="https://github.com/faker-javascript/ip/actions/workflows/ci.yml/badge.svg"></a> <a href="https://github.com/faker-javascript/ip"><img src="https://img.shields.io/badge/license-MIT-blue.svg?color=green" alt="License"></a><hr>
 
+[Domain](https://github.com/faker-javascript/domain)  
+Domain package provides functionality to generate a fake domain value. 
+ 
+<a href="https://github.com/faker-javascript/domain/releases"><img alt="Version" src="https://img.shields.io/github/release/faker-javascript/domain.svg?label=version&color=green"></a> <img src="https://img.shields.io/npm/dt/@fakerjs/domain"> <img alt="node-current" src="https://img.shields.io/node/v/@fakerjs/domain"> <a href="https://github.com/faker-javascript/domain/actions/workflows/ci.yml"><img src="https://github.com/faker-javascript/domain/actions/workflows/ci.yml/badge.svg"></a> <a href="https://github.com/faker-javascript/domain"><img src="https://img.shields.io/badge/license-MIT-blue.svg?color=green" alt="License"></a><hr>
+
 ### Nature
 <hr>
 
