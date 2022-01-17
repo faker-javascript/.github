@@ -102,6 +102,12 @@ Domain package provides functionality to generate a fake domain value.
  
 <a href="https://github.com/faker-javascript/domain/releases"><img alt="Version" src="https://img.shields.io/github/release/faker-javascript/domain.svg?label=version&color=green"></a> <img src="https://img.shields.io/npm/dt/@fakerjs/domain"> <img alt="node-current" src="https://img.shields.io/node/v/@fakerjs/domain"> <a href="https://github.com/faker-javascript/domain/actions/workflows/ci.yml"><img src="https://github.com/faker-javascript/domain/actions/workflows/ci.yml/badge.svg"></a> <a href="https://github.com/faker-javascript/domain"><img src="https://img.shields.io/badge/license-MIT-blue.svg?color=green" alt="License"></a><hr>
 
+[Email](https://github.com/faker-javascript/domain)  
+Email package provides functionality to generate a fake email value. 
+ 
+<a href="https://github.com/faker-javascript/email/releases"><img alt="Version" src="https://img.shields.io/github/release/faker-javascript/email.svg?label=version&color=green"></a> <img src="https://img.shields.io/npm/dt/@fakerjs/email"> <img alt="node-current" src="https://img.shields.io/node/v/@fakerjs/email"> <a href="https://github.com/faker-javascript/email/actions/workflows/ci.yml"><img src="https://github.com/faker-javascript/email/actions/workflows/ci.yml/badge.svg"></a> <a href="https://github.com/faker-javascript/email"><img src="https://img.shields.io/badge/license-MIT-blue.svg?color=green" alt="License"></a><hr>
+
+
 ### Nature
 <hr>
 
