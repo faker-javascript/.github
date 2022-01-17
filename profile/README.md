@@ -61,6 +61,10 @@ Sentence package provides functionality to generate a fake sentence populated by
  
 <a href="https://github.com/faker-javascript/sentence/releases"><img alt="Version" src="https://img.shields.io/github/release/faker-javascript/sentence.svg?label=version&color=green"></a> <img src="https://img.shields.io/npm/dt/@fakerjs/sentence"> <img alt="node-current" src="https://img.shields.io/node/v/@fakerjs/sentence"> <a href="https://github.com/faker-javascript/sentence/actions/workflows/ci.yml"><img src="https://github.com/faker-javascript/sentence/actions/workflows/ci.yml/badge.svg"></a> <a href="https://github.com/faker-javascript/sentence"><img src="https://img.shields.io/badge/license-MIT-blue.svg?color=green" alt="License"></a><hr>
 
+[Paragraph](https://github.com/faker-javascript/paragraph)  
+Paragraph package provides functionality to generate a fake paragraph populated by semi-pronounceable random (nonsense) sentences value.
+ 
+<a href="https://github.com/faker-javascript/paragraph/releases"><img alt="Version" src="https://img.shields.io/github/release/faker-javascript/paragraph.svg?label=version&color=green"></a> <img src="https://img.shields.io/npm/dt/@fakerjs/paragraph"> <img alt="node-current" src="https://img.shields.io/node/v/@fakerjs/paragraph"> <a href="https://github.com/faker-javascript/paragraph/actions/workflows/ci.yml"><img src="https://github.com/faker-javascript/paragraph/actions/workflows/ci.yml/badge.svg"></a> <a href="https://github.com/faker-javascript/paragraph"><img src="https://img.shields.io/badge/license-MIT-blue.svg?color=green" alt="License"></a><hr>
 
 ### Person
 <hr>
