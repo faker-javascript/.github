@@ -89,6 +89,11 @@ Firstname package provides functionality to generate a first name value.
  
 <a href="https://github.com/faker-javascript/firstname/releases"><img alt="Version" src="https://img.shields.io/github/release/faker-javascript/firstname.svg?label=version&color=green"></a> <img src="https://img.shields.io/npm/dt/@fakerjs/firstname"> <img alt="node-current" src="https://img.shields.io/node/v/@fakerjs/firstname"> <a href="https://github.com/faker-javascript/firstname/actions/workflows/ci.yml"><img src="https://github.com/faker-javascript/firstname/actions/workflows/ci.yml/badge.svg"></a> <a href="https://github.com/faker-javascript/firstname"><img src="https://img.shields.io/badge/license-MIT-blue.svg?color=green" alt="License"></a><hr>
 
+[Lastname](https://github.com/faker-javascript/firstname)  
+Lastname package provides functionality to generate a last name value. 
+ 
+<a href="https://github.com/faker-javascript/lastname/releases"><img alt="Version" src="https://img.shields.io/github/release/faker-javascript/lastname.svg?label=version&color=green"></a> <img src="https://img.shields.io/npm/dt/@fakerjs/lastname"> <img alt="node-current" src="https://img.shields.io/node/v/@fakerjs/lastname"> <a href="https://github.com/faker-javascript/lastname/actions/workflows/ci.yml"><img src="https://github.com/faker-javascript/lastname/actions/workflows/ci.yml/badge.svg"></a> <a href="https://github.com/faker-javascript/lastname"><img src="https://img.shields.io/badge/license-MIT-blue.svg?color=green" alt="License"></a><hr>
+
 [Superhero](https://github.com/faker-javascript/superhero)  
 Superhero package provides functionality to generate a fake superhero name value. 
  
