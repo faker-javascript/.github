@@ -3,12 +3,28 @@
 
 ## Install
 
-```
-// Install specific faker package.
-$ npm install --save @fakerjs/[package_name]
+#### Install specific faker package.
 
-// Install all faker packages.
-$ npm install --save @fakerjs/faker
+npm
+```
+npm install @fakerjs/[package_name] --save-dev
+```
+
+yarn
+```
+yarn add @fakerjs/[package_name] -D
+```
+
+#### Install all faker packages.
+
+npm
+```
+npm install @fakerjs/faker --save-dev
+```
+
+yarn
+```
+yarn add @fakerjs/faker -D
 ```
 
 ## Faker
