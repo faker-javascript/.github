@@ -138,6 +138,15 @@ Email package provides functionality to generate a fake email value.
  
 <a href="https://github.com/faker-javascript/email/releases"><img alt="Version" src="https://img.shields.io/github/release/faker-javascript/email.svg?label=version&color=green"></a> <img src="https://img.shields.io/npm/dt/@fakerjs/email"> <img alt="node-current" src="https://img.shields.io/node/v/@fakerjs/email"> <a href="https://github.com/faker-javascript/email/actions/workflows/ci.yml"><img src="https://github.com/faker-javascript/email/actions/workflows/ci.yml/badge.svg"></a> <a href="https://github.com/faker-javascript/email"><img src="https://img.shields.io/badge/license-MIT-blue.svg?color=green" alt="License"></a><hr>
 
+[Url](https://github.com/faker-javascript/url)  
+Url package provides functionality to generate a fake url value. 
+ 
+<a href="https://github.com/faker-javascript/url/releases"><img alt="Version" src="https://img.shields.io/github/release/faker-javascript/url.svg?label=version&color=green"></a> <img src="https://img.shields.io/npm/dt/@fakerjs/url"> <img alt="node-current" src="https://img.shields.io/node/v/@fakerjs/url"> <a href="https://github.com/faker-javascript/url/actions/workflows/ci.yml"><img src="https://github.com/faker-javascript/url/actions/workflows/ci.yml/badge.svg"></a> <a href="https://github.com/faker-javascript/url"><img src="https://img.shields.io/badge/license-MIT-blue.svg?color=green" alt="License"></a><hr>
+
+[Browser](https://github.com/faker-javascript/browser)  
+Browser package provides functionality to generate a fake browser value. 
+ 
+<a href="https://github.com/faker-javascript/browser/releases"><img alt="Version" src="https://img.shields.io/github/release/faker-javascript/browser.svg?label=version&color=green"></a> <img src="https://img.shields.io/npm/dt/@fakerjs/browser"> <img alt="node-current" src="https://img.shields.io/node/v/@fakerjs/browser"> <a href="https://github.com/faker-javascript/browser/actions/workflows/ci.yml"><img src="https://github.com/faker-javascript/browser/actions/workflows/ci.yml/badge.svg"></a> <a href="https://github.com/faker-javascript/browser"><img src="https://img.shields.io/badge/license-MIT-blue.svg?color=green" alt="License"></a><hr>
 
 ### Nature
 <hr>
