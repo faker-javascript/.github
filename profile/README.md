@@ -158,6 +158,16 @@ Animal package provides functionality to generate a fake animal value.
 
 <hr>
 
+### Health
+<hr>
+
+[Blood](https://github.com/faker-javascript/blood)  
+Blood package provides functionality to generate a fake blood value. 
+ 
+<a href="https://github.com/faker-javascript/blood/releases"><img alt="Version" src="https://img.shields.io/github/release/faker-javascript/blood.svg?label=version&color=green"></a> <img src="https://img.shields.io/npm/dt/@fakerjs/blood"> <img alt="node-current" src="https://img.shields.io/node/v/@fakerjs/blood"> <a href="https://github.com/faker-javascript/blood/actions/workflows/ci.yml"><img src="https://github.com/faker-javascript/blood/actions/workflows/ci.yml/badge.svg"></a> <a href="https://github.com/faker-javascript/blood"><img src="https://img.shields.io/badge/license-MIT-blue.svg?color=green" alt="License"></a><hr>
+
+<hr>
+
 ## CONTRIBUTE
 Faker for JavaScript is an open source project and community contributions are essential to its growing and success. Contributing to the Faker for JavaScript is easy and you can give as little or as much time as you want.
 
